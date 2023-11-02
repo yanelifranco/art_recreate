@@ -19,7 +19,15 @@ void draw() {
   line(500,500,1000,800);
   line(500,500,1000,900);
   // line in the keft corner
-  line(0,0,50,300);
+  
+  line(0,0,45,200);
+  line(0,0,75,200);
+  line(0,0,105,200);
+  line(0,0,160,215);
+  translate(50,50);
+  line(0,0,45,300);
+  
+  
   
   
 }
